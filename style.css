@@ -1,0 +1,32 @@
+body{
+    font-family: tahoma;
+    width: 100%;
+    max-width: 400px;
+    min-width: 400px;
+    margin:0 auto;
+    margin-top: 200px;
+    background-color: rgb(193, 193, 143);
+}
+
+h1{
+    color: rgb(191, 128, 35);
+}
+
+p{
+    color: rgb(186, 116, 90);
+}
+
+span{
+    color: rgb(230, 138, 26);
+}
+
+.guesssubmit{
+    border-radius: 5px;
+    background-color: beige;
+
+}
+
+.box{padding: 20px;
+    border-style:groove;
+    background-color: rgb(239, 227, 211);
+}
